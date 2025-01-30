@@ -1,6 +1,6 @@
 # GraphQL POC
 
-This project is a Proof of Concept (POC) for implementing GraphQL in a Node.js application.
+This project is GraphQL application built using express.js and typescript for consuming 2 external REST endpoint for the data source.
 
 ## Table of Contents
 - [Installation](#installation)
